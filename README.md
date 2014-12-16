@@ -29,3 +29,8 @@ Once the extension is installed, simply use it in your code by  :
 
 ```php
 <?= \simonsoftware\paypal\AutoloadExample::widget(); ?>```
+=======
+paypal
+======
+
+Yii2 PayPal
