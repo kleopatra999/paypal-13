@@ -1,0 +1,21 @@
+{
+    "name": "simonsoftware/simonsoftware-paypal",
+    "description": "PayPal ",
+    "type": "library",
+    "keywords": ["yii2","extension","paypal"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paolo Bolla",
+            "email": "support@simonsoftware.it"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "simonsoftware\\paypal\\": ""
+        }
+    }
+}
